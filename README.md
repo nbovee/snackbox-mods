@@ -1,5 +1,5 @@
 # snackbox-mods
-Designs &amp; modifications I have made for my snackbox micro controller v2. Compatibility not tested on other models; please submit a PR/Issue if you test on a different model!
+Designs &amp; modifications I have made for my snackbox micro controller v2. Compatibility not tested on other models; please submit a PR/Issue if a design does/does not work on a different model!
 
 ## Accent Color Insert
 ![Photo of the snackbox micro v2 with color insert](accent.jpg)
@@ -9,7 +9,7 @@ Print flat. Doubles as a silencer for the rattling of my menu buttons. Can also 
 ## Cable Clip
 ![Photo of the snackbox micro v2 with cable retention clip](clip.jpg)
 
-Print on end to avoid collapse of the snap clip.
+Print on end to avoid collapse of the snap clip. PETG recommended for durability.
 
-## Footer ##
+## Licensing ##
 All designs CC-BY-NC, see license file.
